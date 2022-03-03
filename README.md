@@ -1,5 +1,5 @@
 # Attendance Management System 
--- Am system is a attendance management system in schools, colleges and institutes.
+-- Am system stand for attendance management system in schools, colleges and institutes.
 
 
 # Project Description
@@ -10,46 +10,53 @@
 -- It use both faculty and students
 
   # Faculty Uses:
+
   -- It facilitates to access the attendance information of a particular student in a particular class.
+  
   -- To create, read, update and delete a classes & students details
+
   -- And check the overall performance of students
+
   -- Faculty to enter the asssement marks 
+
   -- And also access the basic tools of the website like calculator, to do list, counter system, timer system
                 
   # Students Uses:
+
    -- Students use the website for checking assessment marks, particular student details and downloading the textbooks and notes.
+
    -- And also access the basic tools of the website like calculator, to do list, counter system, timer system
 
 
 # Language used
 -- Frontend
 
-          -- HTML
+   -- HTML
 
-          -- CSS
+   -- CSS
 
-          -- Javascript
+   -- Javascript
 
-          -- Bootstrap 5
+   -- Bootstrap 5
       
 -- Backend
 
-          -- PHP
+    -- PHP
 
-          -- SQL
+    -- SQL
 
 -- Others
 
-          -- Firebase
+    -- Firebase for login authentication
  
  
 # Softwares Used
 
-              -- Visual code stdio
+     -- Visual code stdio
               
-              -- Xampp sever (Apache server & phpmyadmin)
+     -- Xampp sever (Apache server & phpmyadmin)
               
-              -- mySQL workbench
+     -- mySQL workbench
 
 
 # Work Procedure
