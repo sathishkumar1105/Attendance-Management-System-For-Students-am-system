@@ -90,7 +90,7 @@ find the request form of the page using these contact the admin.
 
     -- Folder name "sql"
       
-    -- File name "attendance.sql"
+    -- File name "attendance"
 
 # Case Diagram
 
@@ -126,9 +126,10 @@ find the request form of the page using these contact the admin.
    -- Sathish Kumar M
 
    From Department of ICE,
+
    Saranathan College Of Engineering 
 
-   # Thank You!❤              
+   Thank You!❤              
          
         
    
