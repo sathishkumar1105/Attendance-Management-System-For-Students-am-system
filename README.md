@@ -2,6 +2,14 @@
 
 -- Attendance Management System is developed for daily student attendance in schools, colleges and institutes. 
 
+# Purpose & Scope:
+
+-- The intention of developing Attendance Management System is to computerized the 
+t
+radition way of taking attendance. Another purpose for developing this software is togenerate the desired reports automatically at the end of the session or in the betweenof the session as they require.
+
+
+
 
 # Project Description
 
