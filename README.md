@@ -1,6 +1,6 @@
 # Attendance Management System 
 
--- AM system stands for attendance management system for schools, colleges and institutes.
+-- Attendance Management System is developed for daily student attendance in schools, colleges and institutes. 
 
 
 # Project Description
