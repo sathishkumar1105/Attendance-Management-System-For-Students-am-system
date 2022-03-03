@@ -85,7 +85,7 @@ find the request form of the page using these contact the admin.
 
 -- Website images also included in folder
 
-   --Folder name "Website Images
+-- Folder name "Website Images
  
    
 # Conclusion of the project
@@ -95,15 +95,14 @@ find the request form of the page using these contact the admin.
 -- They are becoming increasingly popular in educational institutes because of the many benefits to the school, colleges and institutes
 
 # This project is developed by
-                           -- Pranav Kumar S 
-                           -- Shiva Shankar A
-                           -- Suriya Prakaash D
-                           -- Vasundra R
-                           -- Kabileshwaran R
-                           -- Sathish Kumar M
-                              From Department of Instrumentation And Control Engineering at Saranathan College Of Engineering 
-                              
-                              # Thank You!❤              
+                    -- Pranav Kumar S 
+                    -- Shiva Shankar A
+                    -- Suriya Prakaash D
+                    -- Vasundra R
+                    -- Kabileshwaran R
+                    -- Sathish Kumar M
+                    From Department of Instrumentation And Control Engineering at Saranathan College Of Engineering 
+                    # Thank You!❤              
          
         
    
