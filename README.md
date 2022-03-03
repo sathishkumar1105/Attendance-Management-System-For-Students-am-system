@@ -88,21 +88,21 @@ find the request form of the page using these contact the admin.
 
 -- It also included zip folder
 
-      -- Folder name "sql"
+    -- Folder name "sql"
       
-      -- File name "attendance.sql"
+    -- File name "attendance.sql"
 
 # Case Diagram
 
 -- And also check the case diagram pdf for understanding, it attached in the zip folder
 
-     -- File name "case diagram.pdf"
+   -- File name "case diagram.pdf"
 
 # Website Demo
 
 -- Website images also included in folder
 
--- Folder name "Website Images"
+   -- Folder name "Website Images"
  
    
 # Conclusion of the project
