@@ -1,8 +1,10 @@
 # Attendance Management System 
--- Am system stand for attendance management system in schools, colleges and institutes.
+
+-- AM system stands for attendance management system in schools, colleges and institutes.
 
 
 # Project Description
+
 -- This attendance management system is more useful for schools, colleges, and institues it's add on more features on the website.
 
 -- This system will also help in evaluating attendane eligibility criteria of a student.
@@ -29,15 +31,16 @@
 
 
 # Language used
+
 -- Frontend
 
-   -- HTML
+    -- HTML
 
-   -- CSS
+    -- CSS
 
-   -- Javascript
+    -- Javascript
 
-   -- Bootstrap 5
+    -- Bootstrap 5
       
 -- Backend
 
@@ -47,16 +50,16 @@
 
 -- Others
 
-    -- Firebase for login authentication
+    -- Firebase
  
  
 # Softwares Used
 
-     -- Visual code stdio
+    -- Visual code stdio
               
-     -- Xampp sever (Apache server & phpmyadmin)
+    -- Xampp sever (Apache server & phpmyadmin)
               
-     -- mySQL workbench
+    -- mySQL workbench
 
 
 # Work Procedure
@@ -78,6 +81,7 @@ find the request form of the page using these contact the admin.
  -- Finally students viewing the faculty response from the home dashboard like assessment marks, student details, notes downloading.
  
  # Database
+
 -- It also included zip folder
 
       -- Folder name "sql"
