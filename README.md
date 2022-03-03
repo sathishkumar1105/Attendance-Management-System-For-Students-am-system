@@ -113,21 +113,22 @@ find the request form of the page using these contact the admin.
 
 # This project is developed by
 
-      -- Pranav Kumar S 
+   -- Pranav Kumar S 
 
-      -- Shiva Shankar A
+   -- Shiva Shankar A
 
-      -- Suriya Prakaash D
+   -- Suriya Prakaash D
 
-      -- Vasundra R
+   -- Vasundra R
 
-      -- Kabileshwaran R
+   -- Kabileshwaran R
 
-      -- Sathish Kumar M
+   -- Sathish Kumar M
 
-      From Department of Instrumentation And Control Engineering at Saranathan College Of Engineering 
+   From Department of ICE,
+   Saranathan College Of Engineering 
 
-      # Thank You!❤              
+   # Thank You!❤              
          
         
    
