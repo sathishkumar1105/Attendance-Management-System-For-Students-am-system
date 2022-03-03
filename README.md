@@ -4,9 +4,11 @@
 
 # Purpose & Scope:
 
--- The intention of developing Attendance Management System is to computerized the 
-t
-radition way of taking attendance. Another purpose for developing this software is togenerate the desired reports automatically at the end of the session or in the betweenof the session as they require.
+-- The intention of developing Attendance Management System is to computerized the tradition way of taking attendance. 
+
+-- Another purpose for developing this system is to generate the desired reports automatically at the end of the session or in the between of the session as they require.
+
+
 
 
 
