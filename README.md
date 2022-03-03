@@ -11,7 +11,7 @@
 
 -- It use both faculty and students
 
-  # Faculty Uses:
+  Faculty Uses:
 
   -- It facilitates to access the attendance information of a particular student in a particular class.
   
@@ -23,7 +23,7 @@
 
   -- And also access the basic tools of the website like calculator, to do list, counter system, timer system
                 
-  # Students Uses:
+  Students Uses:
 
    -- Students use the website for checking assessment marks, particular student details and downloading the textbooks and notes.
 
