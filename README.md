@@ -72,8 +72,8 @@
 
 -- After successfully login next is a dashboard page,click the menu icon view the sidebar of the website
 
--- Sidebar contains lot of options like faculty login, student list, assessment details, notes and also have an additional tools like To do list, timer system, counter system,
-basic calculator.
+-- Sidebar contains lot of options like faculty login, student list, assessment details, notes and also have an additional      tools like To do list, timer system, counter system,
+   basic calculator.
 
 -- Faculty login is a sub system of the project, if you need to enter the faculty dashboard must be login, there is no sign in option, if you are need to sign in
 find the request form of the page using these contact the admin.
