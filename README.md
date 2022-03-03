@@ -10,15 +10,15 @@
 -- It use both faculty and students
 
   # Faculty Uses:
-        -- It facilitates to access the attendance information of a particular student in a particular class.
-        -- To create, read, update and delete a classes & students details
-        -- And check the overall performance of students
-        -- Faculty to enter the asssement marks 
-        -- And also access the basic tools of the website like calculator, to do list, counter system, timer system
+  -- It facilitates to access the attendance information of a particular student in a particular class.
+  -- To create, read, update and delete a classes & students details
+  -- And check the overall performance of students
+  -- Faculty to enter the asssement marks 
+  -- And also access the basic tools of the website like calculator, to do list, counter system, timer system
                 
   # Students Uses:
-        -- Students use the website for checking assessment marks, particular student details and downloading the textbooks and notes.
-        -- And also access the basic tools of the website like calculator, to do list, counter system, timer system
+   -- Students use the website for checking assessment marks, particular student details and downloading the textbooks and notes.
+   -- And also access the basic tools of the website like calculator, to do list, counter system, timer system
 
 
 # Language used
