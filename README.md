@@ -57,7 +57,11 @@
 
     -- Visual code stdio
               
-    -- Xampp sever (Apache server & phpmyadmin)
+    -- Xampp sever
+
+       -- Apache
+
+       -- php myadmin
               
     -- mySQL workbench
 
@@ -86,17 +90,19 @@ find the request form of the page using these contact the admin.
 
       -- Folder name "sql"
       
-      -- File name "attendance"
+      -- File name "attendance.sql"
 
 # Case Diagram
 
 -- And also check the case diagram pdf for understanding, it attached in the zip folder
 
+     -- File name "case diagram.pdf"
+
 # Website Demo
 
 -- Website images also included in folder
 
--- Folder name "Website Images
+-- Folder name "Website Images"
  
    
 # Conclusion of the project
@@ -106,14 +112,22 @@ find the request form of the page using these contact the admin.
 -- They are becoming increasingly popular in educational institutes because of the many benefits to the school, colleges and institutes
 
 # This project is developed by
-                    -- Pranav Kumar S 
-                    -- Shiva Shankar A
-                    -- Suriya Prakaash D
-                    -- Vasundra R
-                    -- Kabileshwaran R
-                    -- Sathish Kumar M
-                    From Department of Instrumentation And Control Engineering at Saranathan College Of Engineering 
-                    # Thank You!❤              
+
+      -- Pranav Kumar S 
+
+      -- Shiva Shankar A
+
+      -- Suriya Prakaash D
+
+      -- Vasundra R
+
+      -- Kabileshwaran R
+
+      -- Sathish Kumar M
+
+      From Department of Instrumentation And Control Engineering at Saranathan College Of Engineering 
+
+      # Thank You!❤              
          
         
    
