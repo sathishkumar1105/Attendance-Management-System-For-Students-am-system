@@ -125,8 +125,7 @@ find the request form of the page using these contact the admin.
 
    -- Sathish Kumar M
 
-   From Department of ICE,
-
+   From Department of ICE 
    Saranathan College Of Engineering 
 
    Thank You!❤              
